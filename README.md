@@ -18,4 +18,4 @@ Several customers reported an inability to access a client website (`www.yummyre
 * **Root Cause Hypothesis:** Concluded that the DNS service failure was likely caused by either a misconfigured firewall blocking port 53 or an active DoS attack overwhelming the service.
 
 ## Documentation
-* [Read the full Incident Report (PDF)](network-traffic-analysis-report)
+* [Read the full Incident Report (PDF)](network-traffic-analysis-report.pdf)
